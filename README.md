@@ -227,4 +227,4 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 
 ---
 
-⭐ Eğer projeyi beğendiyseniz lütfen ⭐ verin ve paylaşın!  
+⭐ Eğer projeyi beğendiyseniz lütfen ⭐ verin ve paylaşın !  
